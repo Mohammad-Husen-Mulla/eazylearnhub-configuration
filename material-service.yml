@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyLearnHub Learning Material related  APIs "
+  contactDetails:
+    name: "Mohammad Husen- Developer"
+    email: ""
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
