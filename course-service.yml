@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyLearnHub Course-Service, For any Queries Contact us..! "
+  message: "Welcome to EazyLearnHub Course-Service, for any queries reach out to us."
   contactDetails:
     name: "Mohammad Husen- Developer"
     email: ""
