@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyLearnHub User-Service related  APIs "
+  message: "Welcome to EazyLearnHub User-Service related APIs, for any queries reach out to us. "
   contactDetails:
     name: "Mohammad Husen- Developer"
     email: ""
