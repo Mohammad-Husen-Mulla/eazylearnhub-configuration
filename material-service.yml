@@ -21,6 +21,6 @@ eureka:
 
 info:
   app:
-    name: "accounts"
+    name: "material-service"
     description: "EazyLearnHub Material-Service"
     version: "1.0.0"
