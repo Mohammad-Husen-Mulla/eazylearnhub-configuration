@@ -19,6 +19,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8072/eureka/
 
+
 info:
   app:
     name: "user-service"
