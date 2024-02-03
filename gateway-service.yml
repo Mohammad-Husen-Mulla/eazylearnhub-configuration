@@ -10,6 +10,15 @@ accounts:
     - (555) 555-1234
     - (555) 523-1345
 
+
+
+info:
+  app:
+    name: "gateway-service"
+    description: "EazyLearnHub Gateway-Service"
+    version: "1.0.0"
+
+
 eureka:
   instance:
     preferIpAddress: true
@@ -18,9 +27,3 @@ eureka:
     registerWithEureka: true
     serviceUrl:
       defaultZone: http://localhost:8072/eureka/
-
-info:
-  app:
-    name: "gateway-service"
-    description: "EazyLearnHub Gateway-Service"
-    version: "1.0.0"
